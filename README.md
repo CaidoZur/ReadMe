@@ -37,7 +37,7 @@ CozyCup Café is a web-based project designed to provide a cozy and inviting atm
 ## About the Authors
 
 ### Zuriel Montallana
-<img src="https://github.com/CaidoZur" 
+<img src="https://avatars.githubusercontent.com/u/147308529?s=400&u=28a1af53daef5e65731b512a74a1dc18ca86b94f&v=4" 
      width="150" 
      style="border-radius: 50%;">
 
