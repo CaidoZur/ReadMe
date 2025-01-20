@@ -26,11 +26,11 @@ CozyCup Café is a web-based project designed to provide a cozy and inviting atm
 
 ### About Us Page
 ![About Us Page](img/aboutus.png)
-*Description: Provides insights into the café's mission and introduces the creators.*
+*Description: Introduces the creators.*
 
 ### Contact Page
 ![Contact Page](img/contact.png)
-*Description: Users can fill out a contact form, view the café's address, and access an embedded map.*
+*Description: Users can fill out a contact form, view the café's address.*
 
 ---
 
@@ -47,3 +47,6 @@ CozyCup Café is a web-based project designed to provide a cozy and inviting atm
 ---
 
 ## Social Links
+[![Facebook Icon](https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/PNG/Color/Facebook.png)](https://www.facebook.com/CaidoZeyyMyLove/)
+<br>
+[![GitHub Icon](https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/PNG/Color/Github.png)](https://github.com/CaidoZur)
